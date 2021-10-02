@@ -1,0 +1,12 @@
+enum Event{
+	MUSIC,
+	PAUSEMUSIC,
+	CREDITSMUSIC,
+	FALL,
+	ROLL,
+	HITWALL,
+	BRAKE,
+	TURN,
+	SLIP,
+	MOVE
+};
